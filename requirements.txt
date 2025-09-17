@@ -1,2 +1,5 @@
-DataSet Link
-https://data.mendeley.com/datasets/jctsfj2sfn/1
+tensorflow
+numpy
+matplotlib
+opencv-python
+scikit-learn
